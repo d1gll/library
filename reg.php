@@ -45,7 +45,7 @@ $file=str_replace('{title}',$title,$file); // обьявляем из каких
             </p>
             <p>
 
-                <input type="submit" name="submit" class="button" id="submit_btn" value="Регестрация" />
+                <input type="submit" name="submit" class="button" id="submit_btn" value="Регистрация" />
             </p>
         </form>
         <div class="alert alert-warning" id="results" role="alert">
